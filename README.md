@@ -194,7 +194,7 @@
 
             <img src="images" alt="Your Profile Picture" class="profile-picture">
 
-            <h1>Rakesh sharma V</h1>
+            <h1>Vignesh j</h1>
 
             <p>Am Full stack developer </p>
 
@@ -236,7 +236,7 @@
 
                 I'm driven by the desire to craft high-performance web applications that enhance user experience and provide
 
-                 seamless digital solutions. With over 7 years of experience in the field, I'm dedicated to staying up to date 
+                 seamless digital solutions. With over 5 years of experience in the field, I'm dedicated to staying up to date 
 
                  with the latest trends and innovations in the 
 
@@ -353,7 +353,7 @@
 
     <footer>
 
-        <p>&copy; 2025 Rakesh sharma v</p>
+        <p>&copy; 2025 Vignesh j</p>
 
     </footer>
 
