@@ -96,8 +96,8 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Pranesh S</h1>
-            <p>Am Mechanical Engineer</p>
+            <h1>vignesh j</h1>
+            <p>Bsc computer science </p>
         </div>
     </header>
 
@@ -128,7 +128,7 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>Deemed University  - Mech</p>
+            <p>Hindustan college of arts and science </p>
             
             
         </div>
@@ -176,7 +176,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Pranesh S</p>
+        <p>&copy; 2025 vignesh j</p>
     </footer>
 
     <script>
